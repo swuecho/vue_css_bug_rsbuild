@@ -15,6 +15,14 @@
   justify-content: center;
 }
 
+/*
+
+after init app, run npm install,
+and then run npm run dev. runs ok.
+
+but If you comment out the following code, the error will occur.
+
+
 .content h1 {
   font-size: 3.6rem;
   font-weight: 700;
@@ -24,5 +32,7 @@
   font-size: 1.2rem;
   font-weight: 400;
   opacity: 0.5;
-}
+} 
+ 
+*/
 </style>
